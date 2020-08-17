@@ -17,12 +17,12 @@ Connect with me through:
 - ⚡ Fun fact: ... -->
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 I love .Net even though I have never written a lot of projects using it. 
-- 💬 I am open to all discussions concerning software development, machine learning, development operation (devops) and many more.
-- 🏆 I due to graduate with a masters in Computer Engineering from Konya Technical University. 
+- 🤓 I love .Net even though I have not been writing a lot of projects using it. 
+- 💬 I am open to all discussions concerning software development, machine learning (ML), development operations (DevOps) and many more.
+- 🏆 I am due to graduate with a masters in Computer Engineering from Konya Technical University. 
 - Originally from **Malawi** :malawi: , now based in **Konya** :turkey:
 
-- I enjoy other things outside coding like listening to podcasts and music, swimming, reading manga and recently cooking.
+- I enjoy other things outside coding like listening to podcasts and music :notes: , swimming :swimmer:, reading manga :books: and recently cooking.
 
 ## My stats: 
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true)](https://github.com/pedes/github-readme-stats)
