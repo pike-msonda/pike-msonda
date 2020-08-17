@@ -38,17 +38,17 @@ Connect with me through:
 
 - Frameworks
 
-| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="laravel_logo" width="24">](https://laravel.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="tensorflow_logo" width="24">](https://www.tensorflow.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="flask logo" width="24">](https://flask.palletsprojects.com/en/1.1.x/)|  [<img src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png" alt="flask logo" width="24">](https://rubyonrails.org/)|
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="laravel_logo" width="24">](https://laravel.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="tensorflow_logo" width="24">](https://www.tensorflow.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="flask logo" width="24">](https://flask.palletsprojects.com/en/1.1.x/)|  [<img src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png" alt="flask logo" width="24">](https://rubyonrails.org/)
+|---|---|---|---|
 
 ### Tools 🛠️
 
 - Know/Using
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
 |---|---|---|---|---|---|
 
 - Learning
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | many more...
-|---|---|---|---|---|---|
+|---|---|---|---|
