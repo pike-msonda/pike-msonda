@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 I'm Java Advocate (a.k.a. Evangelist)
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+- 🤓 I love .Net even though I have never written a lot of projects using it. 
+- 💬 I am open to all discussions concerning software development, machine learning, development operation (devops) and many more.
+- 🏆 I due to graduate with a masters in Computer Engineering from Konya Technical University. 
+- Originally from **Malawi** :malawi: , now based in **Konya**
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true&theme=radical)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact&theme=radical)](https://github.com/pedes/github-readme-stats)
 
 
 <!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
