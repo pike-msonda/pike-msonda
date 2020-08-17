@@ -1,11 +1,10 @@
-### Halo! 👋, This is Pike
+### Merhaba (Hello)! 👋, This is Pike
 
-
-**pike-msonda/pike-msonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Connect with me through:  
 [![Gmail Badge](https://img.shields.io/badge/-pike.msonda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pike.msonda@gmail.com)](pike.msonda@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-pikemsonda-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pikemsonda/)](https://www.linkedin.com/in/pikemsonda/) [![Github Badge](https://img.shields.io/badge/pike-msonda-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pike-msonda/)](https://github.com/pike-msonda/) 
-[![Twitter Badge](https://img.shields.io/badge/-bloodrave_n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bloodrave_n/)](https://www.twitter.com/bloodrave_n/) ![Profile views](https://gpvc.arturio.dev/pike-msonda)
+[![Twitter Badge](https://img.shields.io/badge/-bloodrave_n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bloodrave_n/)](https://www.twitter.com/bloodrave_n/) 
+
+![Profile views](https://gpvc.arturio.dev/pike-msonda)
 
 
 <!-- - 🔭 I’m currently working on ...
@@ -21,11 +20,13 @@ Here are some ideas to get you started:
 - 🤓 I love .Net even though I have never written a lot of projects using it. 
 - 💬 I am open to all discussions concerning software development, machine learning, development operation (devops) and many more.
 - 🏆 I due to graduate with a masters in Computer Engineering from Konya Technical University. 
-- Originally from **Malawi** :malawi: , now based in **Konya**
+- Originally from **Malawi** :malawi: , now based in **Konya** :turkey:
 
-## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true&theme=radical)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact&theme=radical)](https://github.com/pedes/github-readme-stats)
+- I enjoy other things outside coding like listening to podcasts and music, swimming, reading manga and recently cooking.
+
+## My stats: 
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact)](https://github.com/pedes/github-readme-stats)
 
 
 <!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
