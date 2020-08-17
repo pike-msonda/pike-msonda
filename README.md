@@ -25,8 +25,6 @@ Connect with me through:
 - I enjoy other things outside coding like listening to podcasts and music :notes: , swimming :swimmer:, reading manga :books: and recently cooking.
 
 ## My stats: 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true)](https://github.com/pike-msonda/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact)](https://github.com/pike-msonda/github-readme-stats)
 
-
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
