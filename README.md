@@ -1,9 +1,12 @@
-### Hi there 👋
+### Halo! 👋, This is Pike
 
 <!--
 **pike-msonda/pike-msonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-pike.msonda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pike.msonda@gmail.com)](pike.msonda@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-pikemsonda?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pikemsonda/)](https://www.linkedin.com/in/pikemsonda/) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
