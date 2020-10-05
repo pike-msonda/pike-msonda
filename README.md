@@ -19,8 +19,8 @@ Connect with me through:
 
 - 🤓 I love .Net even though I have not been writing a lot of projects using it. 
 - 💬 I am open to all discussions concerning software development, machine learning (ML), development operations (DevOps) and many more.
-- 🏆 I am due to graduate with a masters in Computer Engineering from Konya Technical University. 
-- Originally from **Malawi** :malawi: , now based in **Konya** :turkey:
+- 🏆 I did my postgrad degree in masters in Computer Engineering at Konya Technical University. 
+- Originally from **Malawi** :malawi: , now based in **Konya** 
 
 - I enjoy other things outside coding like listening to podcasts and music :notes: , swimming :swimmer:, reading manga :books: and recently cooking.
 
