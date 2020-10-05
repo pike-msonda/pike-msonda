@@ -1,10 +1,10 @@
-### Merhaba (Hello)! 👋, This is Pike
+### Merhaba (Hello)! 👋, This is Pike My Love [:heart:](https://github.com/LeylaY1996)
 
 Connect with me through:  
 [![Gmail Badge](https://img.shields.io/badge/-pike.msonda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pike.msonda@gmail.com)](pike.msonda@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-pikemsonda-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pikemsonda/)](https://www.linkedin.com/in/pikemsonda/) [![Github Badge](https://img.shields.io/badge/pike-msonda-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pike-msonda/)](https://github.com/pike-msonda/) 
 [![Twitter Badge](https://img.shields.io/badge/-bloodrave_n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bloodrave_n/)](https://www.twitter.com/bloodrave_n/) 
 
-![Profile views](https://gpvc.arturio.dev/pike-msonda)
+![Profile views](https://gpvc.arturio.dev/pike-msonda) 
 
 
 <!-- - 🔭 I’m currently working on ...
