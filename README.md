@@ -23,8 +23,3 @@ Connect with me through:
 - Originally from **Malawi** :malawi:, now based in **Konya**.
 
 - I enjoy other things outside coding like listening to podcasts and music :notes: , swimming :swimmer:, reading manga :books: and recently cooking.
-
-## My stats: 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pike-msonda&show_icons=true&count_private=true)](https://github.com/pike-msonda/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pike-msonda&layout=compact)](https://github.com/pike-msonda/github-readme-stats)
-
